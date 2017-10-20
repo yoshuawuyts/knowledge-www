@@ -17,7 +17,7 @@
     "app-main": "file:app-main",
     "client-main": "file:client-main",
     "pumpify": "^1.3.3",
-    "sheetify": "^3.1.0",
+    "sheetify": "^4.0.0",
     "size-stream": "^1.0.1"
   },
   "devDependencies": {
